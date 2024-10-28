@@ -34,3 +34,7 @@
 
 <h2>🧠 Conclusion</h2>
 <p>This project shows the risks of <strong>XSS attacks</strong> and highlights the importance of proper <strong>input validation</strong> and <strong>sanitization</strong> to secure web applications. 🔒</p>
+<h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
